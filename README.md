@@ -13,9 +13,9 @@ Gestión de Proyectos: Soy un comunicador efectivo y trabajo bien en equipo. Ten
 
 Mis Proyectos Destacados:
 
-Proyecto individual: API de Videojuegos en el Bootcamp SoyHenry.
+Proyecto individual: API de Videojuegos, en el Bootcamp SoyHenry.
 
-Proyecto Grupal: Desarrollo de sitio web para Ferreterria RoFe.
+Proyecto Final Grupal: Desarrollo de sitio web para cliente Ferreterria RoFe, en el Bootcamp SoyHenry.
 
 
 ¿Cómo puedo ayudarte?
