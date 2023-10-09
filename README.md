@@ -27,7 +27,7 @@ Información de Contacto:
 
 Correo Electrónico: felipeortegac07@gmail.com
 
-LinkedIn: /felipe-ortega-c
+LinkedIn: https://www.linkedin.com/in/felipe-ortega-c/
 
-GitHub: /FelipeOcc
+GitHub: https://github.com/FelipeOcc
 
